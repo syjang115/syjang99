@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @syjang99
-- 👀 I’m interested in Health Data Science!
 - 🌱 I majored in Psychology & Statistics.
 - 💞️ I’m looking to collaborate on any fun DA/DS projects.
 - 📫 Reach me via email: syjang115@gmail.com
