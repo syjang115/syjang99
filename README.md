@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syjang115
 - 🌱 I majored in Psychology & Statistics.
 - 💞️ I’m looking to collaborate on any fun DA/DS projects.
-- 📫 Reach me via email: syjang115@gmail.com
+- 📫 Reach me via email: syjang115@snu.ac.kr
 
 <!---
 syjang99/syjang99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
