@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syjang115
+- 👋 Hi, I’m @syjang99
 - 🌱 I majored in Psychology & Statistics.
 - 💞️ I’m looking to collaborate on any fun DA/DS projects.
 - 📫 Reach me via email: syjang115@snu.ac.kr
